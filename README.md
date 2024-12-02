@@ -19,3 +19,8 @@
 
 ## 2. Tokenization
 
+## References
+1. https://nlp.seas.harvard.edu/annotated-transformer/
+2. https://nlp.seas.harvard.edu/2018/04/03/attention.html
+3. https://dingry.github.io/projects/PLA
+
